@@ -1,7 +1,7 @@
 {
   "name": "@snap-admin/webpack-plugin-injector",
-  "version": "1.0.6",
-  "description": "Injects Shopware Plugins into a Webpack config",
+  "version": "1.0.7",
+  "description": "Injects SnapAdmin Plugins into a Webpack config",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
